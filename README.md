@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a frontend developer, I can use and work with [Flutter](https://flutter.dev/) to createa a lot of great applications. Also, I am interest in android development
+
 <!--
 **argyaa/argyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![argyaa's github stats](https://github-readme-stats.vercel.app/api?username=argyaa&theme=merko&show_icons=true) -->
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argyaa&layout=compact&hide=html" alt="argyaa" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=argyaa&show_icons=true" alt="argyaa" /></div>
