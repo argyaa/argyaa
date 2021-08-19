@@ -3,7 +3,7 @@
 I am a junior frontend developer, I can use and work with [Flutter](https://flutter.dev/) to create a lot of great applications. Also, I am interest in android development
 
 <!--
-**argyaa/argyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**argyaa/argyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
