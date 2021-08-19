@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a frontend developer, I can use and work with [Flutter](https://flutter.dev/) to createa a lot of great applications. Also, I am interest in android development
+I am a junior frontend developer, I can use and work with [Flutter](https://flutter.dev/) to create a lot of great applications. Also, I am interest in android development
 
 <!--
 **argyaa/argyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
